@@ -14,7 +14,7 @@ ms.collection: tier3
 ms.reviewer: mstewart,aaroncz
 ---
 
-# Microsoft Connected Cache in Configuration Manager
+# Microsoft Connected Cache with Configuration Manager
 
 *Applies to: Configuration Manager (current branch)*
 
